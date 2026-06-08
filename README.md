@@ -96,9 +96,7 @@ A **two-page interactive Excel dashboard** built directly on a 5,000-row dataset
 **🤝 Available for a Live Demo?**
 A full interactive walkthrough — including real-time slicer filtering and drill-down across all 5,000 records — is available **upon request during interviews or portfolio reviews.**
 
-📩 Connect via [LinkedIn](#) · [Email](#)
-
----
+📩 Connect via [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdi-analyst) · [Email](mailto:mahmoudhamdiwm@gmail.com)
 
 ## 📁 Repository Structure
 
