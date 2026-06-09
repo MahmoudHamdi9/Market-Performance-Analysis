@@ -27,7 +27,7 @@ To capture the business logic behind these dashboards, custom multi-level Pivot 
 ## 📊 Project Overview & Business Problem
 
 ### 🎯 The Business Challenge
-BMW's global sales leadership needed a **single, unified analytical view** to answer critical strategic questions across **6 regions, 11 vehicle models, 4 fuel types, and 15 years of market activity (2010–2024)** — all contained within a structured dataset of **5,000 sales records**.
+BMW's global sales leadership needed a **single, unified analytical view** to answer critical strategic questions across **6 regions, 11 vehicle models, 4 fuel types, and 15 years of market activity (2010–2024)** — all contained within a structured dataset of **50,000 sales records**.
 
 Without a consolidated reporting layer, these questions went unanswered:
 - Which models and regions are the true revenue drivers?
@@ -44,7 +44,7 @@ A **two-page interactive Excel dashboard** built directly on a 5,000-row dataset
 
 | Metric | Value |
 |---|---|
-| 📁 Dataset Size | **5,000 rows** of structured global sales data |
+| 📁 Dataset Size | **50,000 rows** of structured global sales data |
 | 📅 Time Period | **2010 – 2024** (15 Years) |
 | 🌍 Regions Covered | **6** (Africa, Asia, Europe, Middle East, North America, South America) |
 | 🚘 Models Analyzed | **11** (3 Series, 5 Series, 7 Series, i3, i8, M3, M5, X1, X3, X5, X6) |
@@ -94,7 +94,7 @@ A **two-page interactive Excel dashboard** built directly on a 5,000-row dataset
 > ⚠️ **Note:** The underlying Pivot Table architecture and interactive engine are demonstrated fully through this visual showcase. The raw data source used for this analysis is a publicly accessible automotive dataset.
 
 **🤝 Available for a Live Demo?**
-A full interactive walkthrough — including real-time slicer filtering and drill-down across all 5,000 records — is available **upon request during interviews or portfolio reviews.**
+A full interactive walkthrough — including real-time slicer filtering and drill-down across all 50,000 records — is available **upon request during interviews or portfolio reviews.**
 
 📩 Connect via [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdi-analyst) · [Email](mailto:mahmoudhamdiwm@gmail.com)
 
@@ -103,7 +103,7 @@ A full interactive walkthrough — including real-time slicer filtering and dril
 ```text
 📦 BMW-Global-Sales-Intelligence/
 ├── 📂 dataset/
-│   └── BMW sales data (2010–2024).csv       # Raw 5,000-row global sales dataset
+│   └── BMW sales data (2010–2024).csv       # Raw 50,000-row global sales dataset
 ├── 📂 screenshots/
 │   ├── 01_global_performance_dashboard.png # Main page dashboard interface
 │   ├── 02_technical_performance_dashboard.png # Technical breakdown interface
